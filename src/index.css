@@ -1,0 +1,19 @@
+body {
+  background: #2b1d0e;
+  color: #f5e6c8;
+  font-family: serif;
+}
+
+.product-card {
+  border: 2px solid #8b6a3d;
+  padding: 15px;
+  margin-bottom: 15px;
+  background: #1a1208;
+}
+
+button {
+  background: #7a5522;
+  color: #fff;
+  border: none;
+  padding: 8px;
+}
